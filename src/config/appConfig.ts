@@ -1,0 +1,68 @@
+export const APP_CONFIG = {
+  name: "NO CAP",
+  tagline: "Your people. Your score. Your campus.",
+  shortDescription: "Quick daily challenges, private circles, and live multiplayer party games for campus.",
+  version: "1.0.0",
+  defaultInstitution: {
+    id: "nmu",
+    name: "Nigerian Maritime University",
+    shortName: "NMU",
+    location: "Okerenkoko / Kurutie, Delta State",
+  },
+  supportedInstitutions: [
+    { id: "nmu", name: "Nigerian Maritime University (NMU)", shortName: "NMU" },
+    { id: "unilag", name: "University of Lagos (UNILAG)", shortName: "UNILAG" },
+    { id: "ui", name: "University of Ibadan (UI)", shortName: "UI" },
+    { id: "futo", name: "Federal University of Technology Owerri (FUTO)", shortName: "FUTO" },
+    { id: "uniben", name: "University of Benin (UNIBEN)", shortName: "UNIBEN" },
+    { id: "oau", name: "Obafemi Awolowo University (OAU)", shortName: "OAU" },
+  ],
+  faculties: [
+    "Faculty of Engineering",
+    "Faculty of Maritime Transport & Logistics",
+    "Faculty of Environmental Management",
+    "Faculty of Science",
+    "Faculty of Marine Technology",
+  ],
+  departments: [
+    "Marine Engineering",
+    "Nautical Science",
+    "Ports & Shipping Management",
+    "Electrical/Electronics Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Maritime Economics & Finance",
+    "Transport & Logistics Management",
+    "Computer Science",
+    "Meteorology & Climate Science",
+    "Fisheries & Aquaculture",
+  ],
+  levels: ["100L", "200L", "300L", "400L", "500L"],
+  avatars: [
+    { id: "diver", emoji: "🤿", label: "Deep Diver", color: "#78A9FF" },
+    { id: "anchor", emoji: "⚓", label: "Anchor", color: "#C6F36A" },
+    { id: "captain", emoji: "👨‍✈️", label: "Captain", color: "#F4C56A" },
+    { id: "compass", emoji: "🧭", label: "Navigator", color: "#74D7A1" },
+    { id: "scholar", emoji: "🧠", label: "Big Brain", color: "#FF7777" },
+    { id: "surfer", emoji: "🏄", label: "Wave Rider", color: "#C6F36A" },
+    { id: "eagle", emoji: "🦅", label: "Falcon", color: "#78A9FF" },
+    { id: "detective", emoji: "🕵️", label: "Undercover", color: "#A7B0BA" },
+  ],
+  dailyChallenge: {
+    stagesCount: 3,
+    maxScore: 30,
+    pointsPerStage: 10,
+    timeLimitSeconds: 120, // 2 minutes
+    timezone: "Africa/Lagos",
+  },
+  roomLimits: {
+    minPlayers: 2,
+    maxPlayers: 16,
+    codeLength: 5,
+  },
+  rankingThresholds: {
+    circleMinParticipants: 2,
+    departmentMinParticipants: 5, // minimum participants before official (otherwise provisional)
+    universityMinParticipants: 10,
+  },
+};

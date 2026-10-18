@@ -1,0 +1,889 @@
+{
+  "users": {
+    "guest_1792328143380_692ci": {
+      "userId": "guest_1792328143380_692ci",
+      "nickname": "Player_8207",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T12:55:43.380Z",
+      "updatedAt": "2026-10-18T12:57:19.397Z",
+      "streak": 1,
+      "bestStreak": 1,
+      "totalPoints": 30,
+      "dailyPlayedCount": 1,
+      "liveWinsCount": 0,
+      "lastCompletedDailyDateId": "2026-10-18"
+    },
+    "guest_1792328294352_2mmy1": {
+      "userId": "guest_1792328294352_2mmy1",
+      "nickname": "Chidi_Eng",
+      "avatarKey": "diver",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T12:58:14.352Z",
+      "updatedAt": "2026-10-18T12:58:14.352Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_chidi": {
+      "userId": "guest_chidi",
+      "nickname": "Chidi_Eng",
+      "avatarKey": "diver",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T12:58:23.335Z",
+      "updatedAt": "2026-10-18T12:58:23.335Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_amina": {
+      "userId": "guest_amina",
+      "nickname": "Amina_Naut",
+      "avatarKey": "captain",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T12:58:33.427Z",
+      "updatedAt": "2026-10-18T12:58:33.427Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792328488508_zer16": {
+      "userId": "guest_1792328488508_zer16",
+      "nickname": "Player_2758",
+      "avatarKey": "surfer",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T13:01:28.508Z",
+      "updatedAt": "2026-10-18T15:02:50.862Z",
+      "streak": 1,
+      "bestStreak": 1,
+      "totalPoints": 20,
+      "dailyPlayedCount": 1,
+      "liveWinsCount": 0,
+      "lastCompletedDailyDateId": "2026-10-18"
+    },
+    "guest_1792329028527_g571h": {
+      "userId": "guest_1792329028527_g571h",
+      "nickname": "Player_6084",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T13:10:28.527Z",
+      "updatedAt": "2026-10-18T13:10:28.527Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792333643498_37q0n": {
+      "userId": "guest_1792333643498_37q0n",
+      "nickname": "Player_6143",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:27:23.498Z",
+      "updatedAt": "2026-10-18T14:27:23.498Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "bot_1792333779638": {
+      "userId": "bot_1792333779638",
+      "nickname": "Zainab (AI)",
+      "avatarKey": "scholar",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:29:42.026Z",
+      "updatedAt": "2026-10-18T14:29:42.026Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792333908803_sk4vf": {
+      "userId": "guest_1792333908803_sk4vf",
+      "nickname": "Player_6288",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:31:48.803Z",
+      "updatedAt": "2026-10-18T14:31:48.803Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335122643_4rwul": {
+      "userId": "guest_1792335122643_4rwul",
+      "nickname": "Player_6370",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:52:02.643Z",
+      "updatedAt": "2026-10-18T14:52:02.643Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335422035_lb6sd": {
+      "userId": "guest_1792335422035_lb6sd",
+      "nickname": "Player_6387",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:57:02.035Z",
+      "updatedAt": "2026-10-18T14:57:02.035Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335441522_75t0h": {
+      "userId": "guest_1792335441522_75t0h",
+      "nickname": "Player_7604",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:57:21.522Z",
+      "updatedAt": "2026-10-18T14:57:21.522Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335452922_sel8z": {
+      "userId": "guest_1792335452922_sel8z",
+      "nickname": "Player_3288",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:57:32.922Z",
+      "updatedAt": "2026-10-18T14:57:32.922Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335525016_vr0x2": {
+      "userId": "guest_1792335525016_vr0x2",
+      "nickname": "Player_2845",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:58:45.016Z",
+      "updatedAt": "2026-10-18T14:58:45.016Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335558951_byf59": {
+      "userId": "guest_1792335558951_byf59",
+      "nickname": "Player_3817",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:59:18.951Z",
+      "updatedAt": "2026-10-18T14:59:18.951Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335587501_k1s1c": {
+      "userId": "guest_1792335587501_k1s1c",
+      "nickname": "Player_4964",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T14:59:47.501Z",
+      "updatedAt": "2026-10-18T14:59:47.501Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335608822_j0syh": {
+      "userId": "guest_1792335608822_j0syh",
+      "nickname": "Player_6431",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T15:00:08.822Z",
+      "updatedAt": "2026-10-18T15:00:08.822Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335634012_0eljr": {
+      "userId": "guest_1792335634012_0eljr",
+      "nickname": "Player_1171",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T15:00:34.012Z",
+      "updatedAt": "2026-10-18T15:01:23.079Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    },
+    "guest_1792335688608_6huio": {
+      "userId": "guest_1792335688608_6huio",
+      "nickname": "Player_9401",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T15:01:28.608Z",
+      "updatedAt": "2026-10-18T15:01:43.924Z",
+      "streak": 1,
+      "bestStreak": 1,
+      "totalPoints": 30,
+      "dailyPlayedCount": 1,
+      "liveWinsCount": 0,
+      "lastCompletedDailyDateId": "2026-10-18"
+    },
+    "guest_1792336694401_0685k": {
+      "userId": "guest_1792336694401_0685k",
+      "nickname": "Player_8138",
+      "avatarKey": "anchor",
+      "isGuest": true,
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T15:18:14.401Z",
+      "updatedAt": "2026-10-18T15:18:14.401Z",
+      "streak": 0,
+      "bestStreak": 0,
+      "totalPoints": 0,
+      "dailyPlayedCount": 0,
+      "liveWinsCount": 0
+    }
+  },
+  "dailyAttempts": {
+    "2026-10-18_guest_1792328143380_692ci": {
+      "attemptId": "att_2026-10-18_guest_1792328143380_692ci",
+      "userId": "guest_1792328143380_692ci",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 3,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T12:56:32.888Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T12:56:51.848Z"
+        },
+        {
+          "stageIndex": 2,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T12:57:19.397Z"
+        }
+      ],
+      "totalScore": 30,
+      "maxScore": 30,
+      "completed": true,
+      "startedAt": "2026-10-18T12:56:22.401Z",
+      "streakAfter": 1,
+      "completedAt": "2026-10-18T12:57:19.397Z"
+    },
+    "2026-10-18_guest_1792328488508_zer16": {
+      "attemptId": "att_2026-10-18_guest_1792328488508_zer16",
+      "userId": "guest_1792328488508_zer16",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 3,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 2,
+          "isCorrect": false,
+          "pointsAwarded": 0,
+          "timestamp": "2026-10-18T13:04:57.078Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T13:05:12.525Z"
+        },
+        {
+          "stageIndex": 2,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T13:05:27.538Z"
+        }
+      ],
+      "totalScore": 20,
+      "maxScore": 30,
+      "completed": true,
+      "startedAt": "2026-10-18T13:04:42.680Z",
+      "streakAfter": 1,
+      "completedAt": "2026-10-18T13:05:27.538Z"
+    },
+    "2026-10-18_guest_1792333908803_sk4vf": {
+      "attemptId": "att_2026-10-18_guest_1792333908803_sk4vf",
+      "userId": "guest_1792333908803_sk4vf",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:31:48.889Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335122643_4rwul": {
+      "attemptId": "att_2026-10-18_guest_1792335122643_4rwul",
+      "userId": "guest_1792335122643_4rwul",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:52:02.769Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335422035_lb6sd": {
+      "attemptId": "att_2026-10-18_guest_1792335422035_lb6sd",
+      "userId": "guest_1792335422035_lb6sd",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 1,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T14:57:05.383Z"
+        }
+      ],
+      "totalScore": 10,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:57:02.132Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335441522_75t0h": {
+      "attemptId": "att_2026-10-18_guest_1792335441522_75t0h",
+      "userId": "guest_1792335441522_75t0h",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:57:21.613Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335452922_sel8z": {
+      "attemptId": "att_2026-10-18_guest_1792335452922_sel8z",
+      "userId": "guest_1792335452922_sel8z",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:57:33.022Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335525016_vr0x2": {
+      "attemptId": "att_2026-10-18_guest_1792335525016_vr0x2",
+      "userId": "guest_1792335525016_vr0x2",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 2,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T14:58:48.480Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T14:58:54.240Z"
+        }
+      ],
+      "totalScore": 20,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:58:45.127Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335558951_byf59": {
+      "attemptId": "att_2026-10-18_guest_1792335558951_byf59",
+      "userId": "guest_1792335558951_byf59",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 2,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T14:59:22.106Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T14:59:27.755Z"
+        }
+      ],
+      "totalScore": 20,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:59:19.023Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335587501_k1s1c": {
+      "attemptId": "att_2026-10-18_guest_1792335587501_k1s1c",
+      "userId": "guest_1792335587501_k1s1c",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T14:59:47.571Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335608822_j0syh": {
+      "attemptId": "att_2026-10-18_guest_1792335608822_j0syh",
+      "userId": "guest_1792335608822_j0syh",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T15:00:08.881Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335634012_0eljr": {
+      "attemptId": "att_2026-10-18_guest_1792335634012_0eljr",
+      "userId": "guest_1792335634012_0eljr",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 2,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T15:00:37.387Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T15:00:43.135Z"
+        }
+      ],
+      "totalScore": 20,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T15:00:34.139Z",
+      "streakAfter": 0
+    },
+    "2026-10-18_guest_1792335688608_6huio": {
+      "attemptId": "att_2026-10-18_guest_1792335688608_6huio",
+      "userId": "guest_1792335688608_6huio",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 3,
+      "answers": [
+        {
+          "stageIndex": 0,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T15:01:32.240Z"
+        },
+        {
+          "stageIndex": 1,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T15:01:38.111Z"
+        },
+        {
+          "stageIndex": 2,
+          "selectedOptionIndex": 0,
+          "isCorrect": true,
+          "pointsAwarded": 10,
+          "timestamp": "2026-10-18T15:01:43.924Z"
+        }
+      ],
+      "totalScore": 30,
+      "maxScore": 30,
+      "completed": true,
+      "startedAt": "2026-10-18T15:01:28.685Z",
+      "streakAfter": 1,
+      "completedAt": "2026-10-18T15:01:43.924Z"
+    },
+    "2026-10-18_guest_1792336694401_0685k": {
+      "attemptId": "att_2026-10-18_guest_1792336694401_0685k",
+      "userId": "guest_1792336694401_0685k",
+      "dateId": "2026-10-18",
+      "packVersion": 1,
+      "currentStage": 0,
+      "answers": [],
+      "totalScore": 0,
+      "maxScore": 30,
+      "completed": false,
+      "startedAt": "2026-10-18T15:18:14.481Z",
+      "streakAfter": 0
+    }
+  },
+  "dailyPacks": {
+    "2026-10-18": {
+      "pack": {
+        "dateId": "2026-10-18",
+        "version": 1,
+        "timeLimitSeconds": 120,
+        "maxScore": 30,
+        "stages": [
+          {
+            "id": "s1",
+            "type": "quickfire",
+            "title": "Stage 1: Campus Quickfire",
+            "prompt": "Under the standard NUC 5.0 grading scale, which CGPA tier earns Second Class Upper (2:1)?",
+            "options": [
+              "3.50 – 4.49",
+              "3.00 – 3.49",
+              "4.00 – 4.75",
+              "2.40 – 3.49"
+            ]
+          },
+          {
+            "id": "s2",
+            "type": "real_or_fake",
+            "title": "Stage 2: Real Course or Fake Course?",
+            "prompt": "Is 'Nautical Science & Hydrographic Surveying' a verified university academic discipline?",
+            "context": "Decide whether this is a genuine accredited maritime university programme or completely made up.",
+            "options": [
+              "REAL COURSE",
+              "FAKE COURSE"
+            ]
+          },
+          {
+            "id": "s3",
+            "type": "campus_read",
+            "title": "Stage 3: Campus Read (Majority Dilemma)",
+            "prompt": "It's 7:52 AM. Your 8:00 AM lecturer locks the hall door at 8:01 AM sharp. Your hostel is a 10-minute sprint away. What does the majority do?",
+            "options": [
+              "Sprint without brushing shoes and slide in at 7:59 AM",
+              "Accept fate, turn back, and sleep until 10:00 AM",
+              "Beg the class rep on WhatsApp to sign your name on the sheet"
+            ]
+          }
+        ]
+      },
+      "answerKey": {
+        "dateId": "2026-10-18",
+        "stageAnswers": [
+          {
+            "stageIndex": 0,
+            "correctAnswerIndex": 0,
+            "explanation": "3.50 to 4.49 is the verified NUC Second Class Upper bracket."
+          },
+          {
+            "stageIndex": 1,
+            "correctAnswerIndex": 0,
+            "explanation": "REAL! Nautical Science is a core degree for deck officers and navigational surveyors."
+          },
+          {
+            "stageIndex": 2,
+            "correctAnswerIndex": 0,
+            "explanation": "Campus sprint culture! The legendary 7:59 AM slide-in is the overwhelming student consensus."
+          }
+        ]
+      }
+    }
+  },
+  "circles": {
+    "circ_1792328356911_mvgp3": {
+      "id": "circ_1792328356911_mvgp3",
+      "name": "NMU Maritime Kings",
+      "type": "friends",
+      "inviteCode": "HT4MUH",
+      "ownerId": "guest_1792328143380_692ci",
+      "institutionId": "nmu",
+      "department": "Marine Engineering",
+      "level": "300L",
+      "createdAt": "2026-10-18T12:59:16.911Z",
+      "memberCount": 1,
+      "members": {
+        "guest_1792328143380_692ci": {
+          "userId": "guest_1792328143380_692ci",
+          "nickname": "Player_8207",
+          "avatarKey": "anchor",
+          "role": "owner",
+          "joinedAt": "2026-10-18T12:59:16.911Z",
+          "department": "Marine Engineering",
+          "level": "300L"
+        }
+      }
+    }
+  },
+  "circleInvites": {
+    "HT4MUH": "circ_1792328356911_mvgp3"
+  },
+  "roomCodes": {
+    "3XYT8": "room_1792328276796_owboc",
+    "27JL5": "room_1792329033134_3roy9",
+    "E7J3P": "room_1792333767152_1fvak"
+  },
+  "rooms": {
+    "room_1792328276796_owboc": {
+      "id": "room_1792328276796_owboc",
+      "code": "3XYT8",
+      "inviteToken": "inv_4y4in9e4",
+      "hostId": "guest_1792328143380_692ci",
+      "gameType": "undercover",
+      "status": "active",
+      "settings": {
+        "maxPlayers": 8,
+        "roundCount": 3,
+        "timeLimitSeconds": 60,
+        "keepItClean": true
+      },
+      "players": {
+        "guest_1792328143380_692ci": {
+          "id": "guest_1792328143380_692ci",
+          "nickname": "Player_8207",
+          "avatarKey": "anchor",
+          "isHost": true,
+          "isReady": true,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T12:57:56.796Z",
+          "score": 0
+        },
+        "guest_chidi": {
+          "id": "guest_chidi",
+          "nickname": "Chidi_Eng",
+          "avatarKey": "diver",
+          "isHost": false,
+          "isReady": false,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T12:58:23.350Z",
+          "score": 0
+        },
+        "guest_amina": {
+          "id": "guest_amina",
+          "nickname": "Amina_Naut",
+          "avatarKey": "captain",
+          "isHost": false,
+          "isReady": false,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T12:58:33.445Z",
+          "score": 0
+        }
+      },
+      "createdAt": "2026-10-18T12:57:56.796Z",
+      "updatedAt": "2026-10-18T12:58:44.114Z",
+      "publicGameState": {
+        "type": "undercover",
+        "phase": "briefing",
+        "roundNumber": 1,
+        "turnPlayerOrder": [
+          "guest_amina",
+          "guest_chidi",
+          "guest_1792328143380_692ci"
+        ],
+        "clues": [],
+        "votes": {},
+        "eliminatedPlayers": [],
+        "civilianCountRemaining": 2,
+        "undercoverCountRemaining": 1,
+        "statusMessage": "Roles assigned! Check your secret word. 2 Civilians, 1 Undercover."
+      }
+    },
+    "room_1792329033134_3roy9": {
+      "id": "room_1792329033134_3roy9",
+      "code": "27JL5",
+      "inviteToken": "inv_684h6x13",
+      "hostId": "guest_1792329028527_g571h",
+      "gameType": "undercover",
+      "status": "lobby",
+      "settings": {
+        "maxPlayers": 8,
+        "roundCount": 3,
+        "timeLimitSeconds": 60,
+        "keepItClean": true
+      },
+      "players": {
+        "guest_1792329028527_g571h": {
+          "id": "guest_1792329028527_g571h",
+          "nickname": "Player_6084",
+          "avatarKey": "anchor",
+          "isHost": true,
+          "isReady": true,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T13:10:33.134Z",
+          "score": 0
+        }
+      },
+      "createdAt": "2026-10-18T13:10:33.134Z",
+      "updatedAt": "2026-10-18T13:10:33.134Z"
+    },
+    "room_1792333767152_1fvak": {
+      "id": "room_1792333767152_1fvak",
+      "code": "E7J3P",
+      "inviteToken": "inv_0lzlf58i",
+      "hostId": "guest_1792328488508_zer16",
+      "gameType": "real_or_fake_course",
+      "status": "active",
+      "settings": {
+        "maxPlayers": 8,
+        "roundCount": 3,
+        "timeLimitSeconds": 60,
+        "keepItClean": true
+      },
+      "players": {
+        "guest_1792328488508_zer16": {
+          "id": "guest_1792328488508_zer16",
+          "nickname": "Player_2758",
+          "avatarKey": "surfer",
+          "isHost": true,
+          "isReady": true,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T14:29:27.152Z",
+          "score": 0
+        },
+        "bot_1792333779638": {
+          "id": "bot_1792333779638",
+          "nickname": "Zainab (AI)",
+          "avatarKey": "scholar",
+          "isHost": false,
+          "isReady": false,
+          "isConnected": true,
+          "joinedAt": "2026-10-18T14:29:42.474Z",
+          "score": 0
+        }
+      },
+      "createdAt": "2026-10-18T14:29:27.152Z",
+      "updatedAt": "2026-10-18T14:29:44.280Z"
+    }
+  },
+  "privateRoomState": {
+    "room_1792328276796_owboc": {
+      "privatePlayers": {
+        "guest_1792328143380_692ci": {
+          "role": "undercover",
+          "secretWord": "NEPA"
+        },
+        "guest_chidi": {
+          "role": "civilian",
+          "secretWord": "Generator"
+        },
+        "guest_amina": {
+          "role": "civilian",
+          "secretWord": "Generator"
+        }
+      }
+    },
+    "room_1792329033134_3roy9": {
+      "privatePlayers": {}
+    },
+    "room_1792333767152_1fvak": {
+      "privatePlayers": {}
+    }
+  },
+  "reports": []
+}
