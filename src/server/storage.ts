@@ -29,8 +29,11 @@ export interface DatabaseSchema {
   }>;
 }
 
-const DATA_DIR = path.resolve('.data');
-const DB_FILE = path.join(DATA_DIR, 'db.json');
+const isServerless = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME || process.env.LAMBDA_TASK_ROOT);
+const SEED_DATA_DIR = path.resolve('.data');
+const SEED_DB_FILE = path.join(SEED_DATA_DIR, 'db.json');
+const DATA_DIR = isServerless ? path.join('/tmp', '.data') : SEED_DATA_DIR;
+const DB_FILE = isServerless ? path.join('/tmp', '.data', 'db.json') : SEED_DB_FILE;
 
 class StorageManager {
   private db: DatabaseSchema;
@@ -42,8 +45,12 @@ class StorageManager {
   }
 
   private ensureDirectory() {
-    if (!fs.existsSync(DATA_DIR)) {
-      fs.mkdirSync(DATA_DIR, { recursive: true });
+    try {
+      if (!fs.existsSync(DATA_DIR)) {
+        fs.mkdirSync(DATA_DIR, { recursive: true });
+      }
+    } catch (err) {
+      console.warn('Could not create data directory, using in-memory store:', err);
     }
   }
 
@@ -54,6 +61,14 @@ class StorageManager {
         return JSON.parse(raw);
       } catch (err) {
         console.error('Failed to parse db.json, creating clean store:', err);
+      }
+    }
+    if (isServerless && fs.existsSync(SEED_DB_FILE)) {
+      try {
+        const raw = fs.readFileSync(SEED_DB_FILE, 'utf-8');
+        return JSON.parse(raw);
+      } catch (err) {
+        console.error('Failed to parse seed db.json:', err);
       }
     }
     return {
@@ -76,7 +91,7 @@ class StorageManager {
       fs.writeFileSync(tempPath, JSON.stringify(this.db, null, 2), 'utf-8');
       fs.renameSync(tempPath, DB_FILE);
     } catch (err) {
-      console.error('Error saving db.json:', err);
+      console.warn('Error saving db.json (using in-memory store):', err);
     }
   }
 
