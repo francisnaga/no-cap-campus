@@ -1,4 +1,16 @@
-# NO CAP — Campus Social Gaming Platform
+<p align="center">
+  <img src="public/nocap-mark.svg" alt="NO CAP Brand Mark" width="100" height="100" />
+</p>
+
+<h1 align="center">NO CAP</h1>
+
+<p align="center">
+  <strong>Campus multiplayer social gaming platform for Nigerian university students.</strong>
+</p>
+
+---
+
+# NO CAP  -  Campus Social Gaming Platform
 
 **“Your people. Your score. Your campus.”**
 
